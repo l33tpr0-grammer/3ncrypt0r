@@ -4,9 +4,6 @@ from Crypto.Cipher import XOR
 
 # You must add your own PIN, you can't have mine!
 PIN = input("Your 4 number PIN please: ")
-
-# ToDo: Remove before release
-PIN = "1337"
 secret = input("Your data to be securely encrypted: ")
 
 
