@@ -1,6 +1,10 @@
 # 3ncrypt0r
 Behold! The start of the greatest program known to man. Able to do anything and now new and updated with 0 security vulnerabilities!
 
+## Requirements
+* Python 3
+* PyCrypt
+
 ## Features
 This program is so secure, I can even give you my most guarded secret and I can guarantee you won't be able to crack it!
 
